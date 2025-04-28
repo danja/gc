@@ -1,0 +1,3 @@
+# New Room Description
+
+The adventurer has passed through a door and finds himself on a square platform sculpted from ice on the top of a mountain. In front of him, the sides of the platform going clockwise: first there is a wall made of ice blocks with a door in it with a St.Bernards rescue dog peeping out. There are then two sides which appear to be on the edge of a precipice, looking out of misty mountains. The fourth wall start with ice blocks but with a frozen waterfall over it. The waterfall extends upwards out of sight. But on top of the blocked section here, there is a very angry looking mounting goat, preparing to charge.
