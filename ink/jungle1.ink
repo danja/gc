@@ -1,5 +1,10 @@
+
+-> gcstart
+
+== gcstart ==
+
 // Start the story at the Portal Chamber
--> Portal_Chamber
+* [Enter portal] -> Portal_Chamber
 
 === Portal_Chamber ===
 // Image 1
